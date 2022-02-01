@@ -1,0 +1,214 @@
+{
+  "enabled": false,
+  "display": "AutoCrystal",
+  "keybind": "NUMPAD9",
+  "hidden": false,
+  "settings": {
+    "Switch": {
+      "type": "Enum",
+      "value": 3
+    },
+    "Rotate": {
+      "type": "Enum",
+      "value": 0
+    },
+    "Strict": {
+      "type": "Boolean",
+      "value": false
+    },
+    "Target": {
+      "type": "Enum",
+      "value": 1
+    },
+    "TargetRange": {
+      "type": "Float",
+      "value": 10.0
+    },
+    "PauseEating": {
+      "type": "Boolean",
+      "value": false
+    },
+    "NoSoundDesync": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Swing": {
+      "type": "Enum",
+      "value": 2
+    },
+    "Metadata": {
+      "type": "Enum",
+      "value": 0
+    },
+    "Place": {
+      "type": "Boolean",
+      "value": true
+    },
+    "PlaceRange": {
+      "type": "Float",
+      "value": 6.0
+    },
+    "FacePlace": {
+      "type": "Float",
+      "value": 10.0
+    },
+    "ArmourBreaker": {
+      "type": "Integer",
+      "value": 0
+    },
+    "1.13": {
+      "type": "Boolean",
+      "value": false
+    },
+    "Break": {
+      "type": "Boolean",
+      "value": true
+    },
+    "BreakRange": {
+      "type": "Float",
+      "value": 6.0
+    },
+    "InstaBreak": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Timer": {
+      "type": "Float",
+      "value": 1000.0
+    },
+    "Cancel": {
+      "type": "Boolean",
+      "value": true
+    },
+    "NoSuicide": {
+      "type": "Boolean",
+      "value": true
+    },
+    "MinDamage": {
+      "type": "Float",
+      "value": 6.0
+    },
+    "IgnoreSelfDMG": {
+      "type": "Boolean",
+      "value": false
+    },
+    "MaxSelfDMG": {
+      "type": "Float",
+      "value": 9.0
+    },
+    "": {
+      "type": "Enum",
+      "value": 1
+    },
+    "PlaceTrace": {
+      "type": "Float",
+      "value": 3.0
+    },
+    "BreakTrace": {
+      "type": "Float",
+      "value": 3.0
+    },
+    "PlaceCheck": {
+      "type": "Boolean",
+      "value": false
+    },
+    "PacketPos": {
+      "type": "Boolean",
+      "value": false
+    },
+    "Recalc": {
+      "type": "Boolean",
+      "value": true
+    },
+    "RPlaceTrace": {
+      "type": "Float",
+      "value": 3.0
+    },
+    "RMinDamage": {
+      "type": "Float",
+      "value": 6.0
+    },
+    "DelayMode": {
+      "type": "Enum",
+      "value": 1
+    },
+    "PlaceTimer": {
+      "type": "Float",
+      "value": 0.0
+    },
+    "BreakTimer": {
+      "type": "Float",
+      "value": 0.0
+    },
+    "PlaceTicks": {
+      "type": "Integer",
+      "value": 0
+    },
+    "BreakTicks": {
+      "type": "Integer",
+      "value": 0
+    },
+    "RenderBox": {
+      "type": "Enum",
+      "value": 0
+    },
+    "Render": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Box": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Outline": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Text": {
+      "type": "Boolean",
+      "value": true
+    },
+    "BoxColor": {
+      "type": "Color",
+      "value": [
+        0,
+        0,
+        0,
+        125
+      ]
+    },
+    "LineWidth": {
+      "type": "Float",
+      "value": 1.5
+    },
+    "CustomLine": {
+      "type": "Boolean",
+      "value": true
+    },
+    "OutLinecolor": {
+      "type": "Color",
+      "value": [
+        0,
+        0,
+        0,
+        255
+      ]
+    },
+    "Rainbow": {
+      "type": "Boolean",
+      "value": true
+    },
+    "Speed": {
+      "type": "Float",
+      "value": 7.0
+    },
+    "Saturation": {
+      "type": "Float",
+      "value": 0.5
+    },
+    "Brightness": {
+      "type": "Float",
+      "value": 1.0
+    }
+  }
+}
